@@ -2,14 +2,14 @@
 
 ### _Travel companion app developed using React.js, RapidAPI, Material UI and Google Maps API_
 
-### :link: https://svelte-movies-app.netlify.app/
+### :link:
 
 ### Learned from : [JavaScript Mastery](https://youtu.be/UKdQjQX1Pko)
 
 ## Images
 
-<img src='./static/home.png' />
-<img src='./static/details.png' />
+<img src='./images/home.png' />
+<img src='./images/home-mobile.png' />
 
 ## Run Locally
 
