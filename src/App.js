@@ -57,7 +57,18 @@ const App = () => {
     <>
       <CssBaseline />
       <Header setCoordinates={setCoordinates} />
-      <Grid container spacing={3} style={{ width: "100%" }}>
+      <Grid
+        container
+        spacing={3}
+        style={{
+          width: "100%",
+          marginTop: "1rem",
+          margin: "0 auto",
+          height: "100%",
+        }}
+        justifyContent="center"
+        alignItems="center"
+      >
         <Grid item xs={12} md={4}>
           <List
             places={filteredPlaces?.length ? filteredPlaces : places}
