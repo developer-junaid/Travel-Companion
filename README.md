@@ -1,4 +1,4 @@
-# Travel Companion Web Application
+# 🗺️ Travel Companion Web Application
 
 ### _Travel companion app developed using React.js, RapidAPI, Material UI and Google Maps API_
 
