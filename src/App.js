@@ -7,7 +7,7 @@ import { CssBaseline, Grid } from "@material-ui/core";
 import { getPlacesData, getWeatherData } from "./api";
 
 // Components
-import { Header, List, Map, PlaceDetails } from "./components";
+import { Header, List, Map } from "./components";
 
 const App = () => {
   const [childClicked, setChildClicked] = useState(null);

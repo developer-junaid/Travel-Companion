@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 
 // Google map
 import GoogleMapReact from "google-map-react";

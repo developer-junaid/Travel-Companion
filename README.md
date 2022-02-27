@@ -13,7 +13,7 @@
 
 ## Run Locally
 
-- Run this command `git clone https://github.com/developer-junaid/Svelte-Movies-App.git`
+- Run this command `git clone https://github.com/developer-junaid/Travel-Companion.git`
 - You are now in the dev environment and you can play around
 
 ## Technologies
